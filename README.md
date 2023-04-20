@@ -11,5 +11,5 @@ Hello 👋 I'm Eren, I'm a full stack developer from <img width="20" height="20"
 - __📫 Contact or team: contact@the
 riy.xyz__
   
-
-
+### Project
+  <a href="https://discord.gg/xJ6B6XpV4H"><img width="5%" src="https://cdn.discordapp.com/attachments/1098160364568465408/1098540846451806238/luna_1035px_cleanup1-photoaidcom-cropped.jpg" alt="Cosy.live"></a>
