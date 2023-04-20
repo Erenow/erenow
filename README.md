@@ -12,7 +12,7 @@ Hello I'm Eren, I'm a full stack developer from <img width="20" height="20" alig
 
 * 🌍  I'm based in Ankara, Turkey
 * 🖥️  See my portfolio at [my website](http://theriy.xyz)
-* ✉️  You can contact me at [me@emirkabal.com](mailto:hi@theriy.xyz)
+* ✉️  You can contact me at [hi@theriy.xyz](mailto:hi@theriy.xyz)
 * 🚀  I'm currently working on [Cosy.live Oy Botu](http://cosy.live)
 
   
