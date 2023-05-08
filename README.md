@@ -11,6 +11,6 @@ Full-stack developer
 Hello I'm Eren, I'm a full stack developer working on [Efendi Bot](@efendibot.xyz)
 I'm based in <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> Ankara, **Turkey**. I'm working on bots and websites on discord, I'm usually interested in the web and I'm developing bots, I'm more interested in the web but I don't stop working on bots.
 
-- ✉️ Contact or team [hi@efendidev.xyz](mailto:hi@erenn.xyz)
+- ✉️ Contact or team [hi@uzay.xyz](mailto:hi@uzay.xyz)
 - 🚀 Working on Efendi bot [Davet](efendibot.xyz)
 
