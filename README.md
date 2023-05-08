@@ -4,7 +4,7 @@ Hi 👋 My name is Eren Can
 Full-stack developer
 --------------------
 
-<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=Eren730&data=followers,repositories,stars,commits&theme=darkmode">
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=Uzayxrd&data=followers,repositories,stars,commits&theme=darkmode">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=js,kotlin,html,css,nodejs,java,php&theme=darkmode">
 
