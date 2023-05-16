@@ -1,4 +1,4 @@
-Hi 👋 My name is Eren Can
+Hi 👋 My name is Eren Tuna Can
 ===========================
 
 Full-stack developer
