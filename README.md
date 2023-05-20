@@ -1,4 +1,4 @@
-Hi 👋 My name is Eren Tuna Can
+Hi 👋 My name is Eren Can Şİmşek
 ===========================
 
 Full-stack developer
