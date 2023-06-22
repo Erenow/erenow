@@ -11,6 +11,6 @@ Full-stack developer
 Hello I'm Eren, I'm a full stack developer working on [RAGGY'S BOT](https://bot.raggys.xyz)
 I'm based in <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> İstanbul, **Turkey**. I'm working on bots and websites on discord, I'm usually interested in the web and I'm developing bots, I'm more interested in the web but I don't stop working on bots.
 
-- 🚀 Working RAGGY's Panel [RAGGY's Panel](https://bot.raggys.xyz)
+- 🚀 Working RAGGY's Panel [RAGGY's](https://bot.raggys.xyz)
 - ⚠ Working on RAGGY'S DB. [Raggys.db](https://www.npmjs.com/package/raggys.db)
 
