@@ -1,9 +1,9 @@
 Hi 👋 My name is RAGGY's Dev.
 ===========================
-
 Full-stack developer
 --------------------
-
+![](https://visitor-badge.laobi.icu/badge?page_id=qid7dev&format=true)
+<br>
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=raggysdev&data=followers,repositories,stars,commits&theme=darkmode">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=js,kotlin,html,css,nodejs,java,php&theme=darkmode">
