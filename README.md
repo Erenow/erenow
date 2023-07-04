@@ -11,6 +11,6 @@ Hi 👋 My name is Kaan Doğanay (qid7dev)
 - Nerphy Builders: Bot Builder
 - Nerphy Database: Nerphy.db
 - Nerphy Yapayzeka: Nerphygpt
-- Visual Studio Code Extensions: Narph Rich Presence
-- Bilişim Ve Yazılım Firması: Hostabu bilişim ve yazılım hizmetleri
+- Visual Studio Extensions: Narph Rich Presence
+- Hostabu Bilişim Ve Yazılım Hizmetleri
 
