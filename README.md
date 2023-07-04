@@ -12,3 +12,4 @@ Hi 👋 My name is Kaan Doğanay (qid7dev)
 - Nerphy Database: Nerphy.db
 - Nerphy Yapayzeka: Nerphygpt
 - Hostabu Bilişim Ve Yazılım Hizmetleri
+- New Project: **Comming Sooon...**
